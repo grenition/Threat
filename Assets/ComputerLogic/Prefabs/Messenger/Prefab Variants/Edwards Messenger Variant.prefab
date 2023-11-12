@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5536098691998379482
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4172802363259236052, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_Name
+      value: Edwards Messenger Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 700
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 800
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.565
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.195
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6562927595265092524, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[0].name
+      value: 965-244-666
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[1].name
+      value: 932-784-342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[2].name
+      value: 922-408-972
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].name
+      value: 937-228-017
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[0].isWrongChat
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[1].isWrongChat
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[2].isWrongChat
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[0].messages.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[1].messages.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[2].messages.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[0].messages.Array.data[0].text
+      value: Hello, my name is Asinus, I am an employee of your bank.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[0].messages.Array.data[1].text
+      value: They are going to withdraw a large amount of money from your card.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[0].messages.Array.data[2].text
+      value: Urgently tell me the code from SMS and CVV code!
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[1].messages.Array.data[0].text
+      value: Hello, this is Major Lebron from FBI. You are accused of grand larceny
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[1].messages.Array.data[1].text
+      value: What department do you work in?)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[1].messages.Array.data[2].text
+      value: Urgently tell me the code from SMS and CVV code!
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[2].messages.Array.data[0].text
+      value: We are sorry to announce that your pay will be cut by 20%. If you have
+        any objections, you may fill the resigning paper.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[2].messages.Array.data[1].text
+      value: What department do you work in?)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[0].text
+      value: "Things don\u2019t look so good"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[1].text
+      value: What happened?
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[2].text
+      value: "Doctors say that Jakob must be getting his treatment in your company\u2019s
+        clinic before the end of the year."
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[3].text
+      value: ...
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[4].text
+      value: What are we gonna do?
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[5].text
+      value: ...
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[6].text
+      value: SAY SOMETHING
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[7].text
+      value: Calm down
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[8].text
+      value: "I\u2019ll handle it. Nothing to worry about."
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[1].messages.Array.data[1].isMine
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[2].messages.Array.data[0].isMine
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[2].messages.Array.data[1].isMine
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[1].isMine
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[2].isMine
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[3].isMine
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[4].isMine
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[5].isMine
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[6].isMine
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[7].isMine
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8339252343604552954, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
+      propertyPath: chatDatas.Array.data[3].messages.Array.data[8].isMine
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b8aa8c2e42ba8e46af5cc6d58f656d8, type: 3}
